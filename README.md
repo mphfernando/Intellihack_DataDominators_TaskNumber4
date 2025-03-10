@@ -111,7 +111,7 @@ After thorough evaluation, Linear Regression emerged as the best-performing mode
 
 1. Execute the notebooks in sequence:
    ```
-   jupyter notebook notebooks/01_data_exploration.ipynb
+   jupyter notebook notebooks/Data_Dominators_Task4.ipynb
    ```
 
 2. Or run the complete pipeline:
