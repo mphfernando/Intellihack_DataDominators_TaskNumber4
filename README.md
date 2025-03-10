@@ -1,9 +1,13 @@
 # Intellihack_DataDominators_TaskNumber4
 
+
 ##Financial Stock Price Prediction
+
 Project Overview
+
 This repository contains a comprehensive analysis of financial time series data, including exploratory data analysis (EDA), data preprocessing, model training, evaluation, and prediction. The project aims to analyze historical financial data and develop predictive models to forecast future price movements.
 Table of Contents
+
 
 Data Description
 Exploratory Data Analysis
@@ -14,8 +18,10 @@ File Structure
 Installation and Usage
 Future Improvements
 
+
 Data Description
 The dataset contains historical financial time series data with the following features:
+
 
 Date
 Open price
@@ -25,6 +31,7 @@ Close price
 Trading volume
 Adjusted close price
 Additional derived features
+
 
 Exploratory Data Analysis
 The EDA process involved:
