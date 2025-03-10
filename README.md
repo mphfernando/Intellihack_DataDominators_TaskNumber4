@@ -86,7 +86,7 @@ After thorough evaluation, Linear Regression emerged as the best-performing mode
 ### Prerequisites
 
 - Python 3.8+
-- Required packages listed in requirements.txt
+- !pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow statsmodels
 
 ### Setup
 
@@ -103,9 +103,7 @@ After thorough evaluation, Linear Regression emerged as the best-performing mode
    ```
 
 3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+  
 
 ### Running the Analysis
 
